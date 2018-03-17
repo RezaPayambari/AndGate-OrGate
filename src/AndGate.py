@@ -1,4 +1,4 @@
-__version__ = '2.0'
+__version__ = '1.0'
 __author__ = 'Reza Payambari (reza.payambari@students.tbs1.de)'
 
 class AndGate:
